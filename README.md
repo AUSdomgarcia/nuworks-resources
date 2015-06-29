@@ -22,6 +22,7 @@ FRONT-END RELATED
 
 4. LAD
 * [Codrops](http://tympanus.net/codrops/)
+* [images guide](http://davidwalsh.name/responsive-images)
 
 BACK-END RELATED
 ===
