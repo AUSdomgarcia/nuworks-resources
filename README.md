@@ -24,6 +24,7 @@ FRONT-END RELATED
 * [Codrops](http://tympanus.net/codrops/)
 * [images guide](http://davidwalsh.name/responsive-images)
 * [networking material](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
+* [HTTP error](https://support.microsoft.com/en-us/kb/943891)
 
 BACK-END RELATED
 ===
