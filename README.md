@@ -25,6 +25,8 @@ FRONT-END RELATED
 * [images guide](http://davidwalsh.name/responsive-images)
 * [networking material](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
 * [HTTP error](https://support.microsoft.com/en-us/kb/943891)
+* [packetcode](http://packetcode.com/tutorials)
+* facebook/tools/debug || explore
 
 BACK-END RELATED
 ===
